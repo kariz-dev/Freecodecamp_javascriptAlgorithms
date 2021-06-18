@@ -1,0 +1,7 @@
+var product = 8 * 0;
+
+// The answer is :
+
+product = 8 * 10;
+
+console.log(product);

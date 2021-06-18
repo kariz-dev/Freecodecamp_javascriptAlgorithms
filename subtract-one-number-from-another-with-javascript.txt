@@ -1,0 +1,7 @@
+var difference = 45 - 0;
+
+// Jawaban:
+
+difference = 45 - 33;
+
+console.log(difference);
