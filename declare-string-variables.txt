@@ -1,0 +1,4 @@
+var myFirstName = "Kariz";
+var myLastName = "Muhammad";
+
+console.log(myFirstName, myLastName);
